@@ -7,6 +7,7 @@ R STUDIO ,  WINDOWS
 
 LIBRERIAS A USAR: 
 
+
 install.packages("devtools")
 library(devtools)
 install.packages("rgl")
